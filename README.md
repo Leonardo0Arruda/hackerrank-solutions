@@ -12,19 +12,19 @@ My HackerRank Python solutions organized by domain.
 
 | No | Question Name | Difficulty | Score | Solution(s) | Subject | HR Link |
 |----|--------------|------------|-------|-------------|---------|---------|
-| 1 | Say "Hello, World!" With Python | Easy | 5 | [✅ 1](https://github.com/Leonardo0Arruda/hackerrank-solutions/blob/main/python/string-formatting/Say%20Hello,%20World!%20With%20Python.py) | `str` | [link](https://www.hackerrank.com/challenges/py-hello-world) |  |  |  |  |  |  |  |  |  |  |  |  |
-| 2 | Python If-Else | Easy | 10 | [✅ 1](https://github.com/Leonardo0Arruda/hackerrank-solutions/blob/main/python/string-formatting/Python%20If-Else.py) | `if-elif-else`, `conditionals`, `control flow` | [link](https://www.hackerrank.com/challenges/py-if-else) |  |  |  |  |  |  |  |  |  |  |  |  |
-| 3 | Arithmetic Operators | Easy | 10 | [✅ 1](https://github.com/Leonardo0Arruda/hackerrank-solutions/blob/main/python/string-formatting/Arithmetic%20Operators.py) | `math`, `operators` | [link](https://www.hackerrank.com/challenges/python-arithmetic-operators) |  |  |  |  |  |  |  |  |  |  |  |  |
-| 4 | Python Division | Easy | 10 | [✅ 1](https://github.com/Leonardo0Arruda/hackerrank-solutions/blob/main/python/string-formatting/Python%20Division.py) | `math`, `operators`, `data types` | [link](https://www.hackerrank.com/challenges/python-division) |  |  |  |  |  |  |  |  |  |  |  |  |
-| 5 | Loops | Easy | 10 | - | `loops`, `for`, `while` | [link](https://www.hackerrank.com/challenges/python-loops) |  |  |  |  |  |  |  |  |  |  |  |  |
-| 6 | Write a function | Medium | 10 | [✅ 1](https://github.com/Leonardo0Arruda/hackerrank-solutions/blob/main/python/string-formatting/Write%20a%20function.py) | `function` | [link](https://www.hackerrank.com/challenges/write-a-function) |  |  |  |  |  |  |  |  |  |  |  |  |
-| 7 | Print Function | Easy | 20 | [✅ 1](https://github.com/Leonardo0Arruda/hackerrank-solutions/blob/main/python/string-formatting/Print%20Function.py) | `array`, `list`, `loops` | [link](https://www.hackerrank.com/challenges/python-print) |  |  |  |  |  |  |  |  |  |  |  |  |
-| 8 | List Comprehensions | Easy | 10 | [✅ 1](https://github.com/Leonardo0Arruda/hackerrank-solutions/blob/main/python/string-formatting/List%20Comprehensions.py) | `array`, `list`, `matrix`, `list comprehension`, `data types` | [link](https://www.hackerrank.com/challenges/list-comprehensions) |  |  |  |  |  |  |  |  |  |  |  |  |
-| 9 | Find the Runner-Up Score! | Easy | 10 | [✅ 1](https://github.com/Leonardo0Arruda/hackerrank-solutions/blob/main/python/string-formatting/Find%20the%20Runner-Up%20Score!.py) | `array`, `list`, `sorting` | [link](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list) |  |  |  |  |  |  |  |  |  |  |  |  |
-| 10 | Nested Lists | Easy | 10 | [✅ 1](https://github.com/Leonardo0Arruda/hackerrank-solutions/blob/main/python/string-formatting/Nested%20Lists.py) | `list`, `sorting`, `data types` | [link](https://www.hackerrank.com/challenges/nested-list) |  |  |  |  |  |  |  |  |  |  |  |  |
-| 11 | Finding the Percentage | Easy | 10 | - | `dict`, `list`, `data types` | [link](https://www.hackerrank.com/challenges/finding-the-percentage) |  |  |  |  |  |  |  |  |  |  |  |  |
-| 12 | Lists | Easy | 10 | - | `list`, `data types` | [link](https://www.hackerrank.com/challenges/python-lists) |  |  |  |  |  |  |  |  |  |  |  |  |
-| 13 | Tuples | Easy | 10 | - | `tuples`, `data types` | [link](https://www.hackerrank.com/challenges/python-tuples) |  |  |  |  |  |  |  |  |  |  |  |  |
+| 1 | Say "Hello, World!" With Python | Easy | 5 | [✅ 1](https://github.com/Leonardo0Arruda/hackerrank-solutions/blob/main/python/string-formatting/Say%20Hello,%20World!%20With%20Python.py) | `str` | [link](https://www.hackerrank.com/challenges/py-hello-world) |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 2 | Python If-Else | Easy | 10 | [✅ 1](https://github.com/Leonardo0Arruda/hackerrank-solutions/blob/main/python/string-formatting/Python%20If-Else.py) | `if-elif-else`, `conditionals`, `control flow` | [link](https://www.hackerrank.com/challenges/py-if-else) |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 3 | Arithmetic Operators | Easy | 10 | [✅ 1](https://github.com/Leonardo0Arruda/hackerrank-solutions/blob/main/python/string-formatting/Arithmetic%20Operators.py) | `math`, `operators` | [link](https://www.hackerrank.com/challenges/python-arithmetic-operators) |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 4 | Python Division | Easy | 10 | [✅ 1](https://github.com/Leonardo0Arruda/hackerrank-solutions/blob/main/python/string-formatting/Python%20Division.py) | `math`, `operators`, `data types` | [link](https://www.hackerrank.com/challenges/python-division) |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 5 | Loops | Easy | 10 | - | `loops`, `for`, `while` | [link](https://www.hackerrank.com/challenges/python-loops) |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 6 | Write a function | Medium | 10 | [✅ 1](https://github.com/Leonardo0Arruda/hackerrank-solutions/blob/main/python/string-formatting/Write%20a%20function.py) | `function` | [link](https://www.hackerrank.com/challenges/write-a-function) |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 7 | Print Function | Easy | 20 | [✅ 1](https://github.com/Leonardo0Arruda/hackerrank-solutions/blob/main/python/string-formatting/Print%20Function.py) | `array`, `list`, `loops` | [link](https://www.hackerrank.com/challenges/python-print) |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 8 | List Comprehensions | Easy | 10 | [✅ 1](https://github.com/Leonardo0Arruda/hackerrank-solutions/blob/main/python/string-formatting/List%20Comprehensions.py) | `array`, `list`, `matrix`, `list comprehension`, `data types` | [link](https://www.hackerrank.com/challenges/list-comprehensions) |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 9 | Find the Runner-Up Score! | Easy | 10 | [✅ 1](https://github.com/Leonardo0Arruda/hackerrank-solutions/blob/main/python/string-formatting/Find%20the%20Runner-Up%20Score!.py) | `array`, `list`, `sorting` | [link](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list) |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 10 | Nested Lists | Easy | 10 | [✅ 1](https://github.com/Leonardo0Arruda/hackerrank-solutions/blob/main/python/string-formatting/Nested%20Lists.py) | `list`, `sorting`, `data types` | [link](https://www.hackerrank.com/challenges/nested-list) |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 11 | Finding the Percentage | Easy | 10 | [✅ 1](https://github.com/Leonardo0Arruda/hackerrank-solutions/blob/main/python/string-formatting/Finding%20the%20Percentage.py) | `dict`, `list`, `data types` | [link](https://www.hackerrank.com/challenges/finding-the-percentage) |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 12 | Lists | Easy | 10 | - | `list`, `data types` | [link](https://www.hackerrank.com/challenges/python-lists) |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 13 | Tuples | Easy | 10 | - | `tuples`, `data types` | [link](https://www.hackerrank.com/challenges/python-tuples) |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 ---
 
@@ -32,19 +32,19 @@ My HackerRank Python solutions organized by domain.
 
 | No | Question Name | Difficulty | Score | Solution(s) | Subject | HR Link |
 |----|--------------|------------|-------|-------------|---------|---------|
-| 1 | sWAP cASE | Easy | 10 | - | `str`, `manipulation` | [link](https://www.hackerrank.com/challenges/swap-case) |  |  |  |  |  |  |  |  |  |  |  |  |
-| 2 | String Split and Join | Easy | 10 | - | `str`, `manipulation` | [link](https://www.hackerrank.com/challenges/python-string-split-and-join) |  |  |  |  |  |  |  |  |  |  |  |  |
-| 3 | What's Your Name? | Easy | 10 | [✅ 1](https://github.com/Leonardo0Arruda/hackerrank-solutions/blob/main/python/string-formatting/namelastname.py) | `str`, `function` | [link](https://www.hackerrank.com/challenges/whats-your-name) |  |  |  |  |  |  |  |  |  |  |  |  |
-| 4 | Mutations | Easy | 10 | - | `str`, `manipulation` | [link](https://www.hackerrank.com/challenges/python-mutations) |  |  |  |  |  |  |  |  |  |  |  |  |
-| 5 | Find a string | Easy | 10 | - | `str`, `manipulation` | [link](https://www.hackerrank.com/challenges/find-a-string) |  |  |  |  |  |  |  |  |  |  |  |  |
-| 6 | String Validators | Easy | 10 | - | `str`, `manipulation` | [link](https://www.hackerrank.com/challenges/string-validators) |  |  |  |  |  |  |  |  |  |  |  |  |
-| 7 | Text Alignment | Easy | 10 | [✅ 1](https://github.com/Leonardo0Arruda/hackerrank-solutions/blob/main/python/string-formatting/Text%20Alignment.py) | `str`, `formatting` | [link](https://www.hackerrank.com/challenges/text-alignment) |  |  |  |  |  |  |  |  |  |  |  |  |
-| 8 | Text Wrap | Easy | 10 | [✅ 1](https://github.com/Leonardo0Arruda/hackerrank-solutions/blob/main/python/string-formatting/Text%20Wrap.py) | `str`, `textwrap`, `formatting` | [link](https://www.hackerrank.com/challenges/text-wrap) |  |  |  |  |  |  |  |  |  |  |  |  |
-| 9 | Designer Door Mat | Easy | 10 | [✅ 1](https://github.com/Leonardo0Arruda/hackerrank-solutions/blob/main/python/string-formatting/Designer%20Door%20Mat.py) | `str`, `loops`, `formatting` | [link](https://www.hackerrank.com/challenges/designer-door-mat) |  |  |  |  |  |  |  |  |  |  |  |  |
-| 10 | String Formatting | Easy | 10 | - | `str`, `formatting` | [link](https://www.hackerrank.com/challenges/python-string-formatting) |  |  |  |  |  |  |  |  |  |  |  |  |
-| 11 | Capitalize! | Easy | 20 | - | `str`, `manipulation` | [link](https://www.hackerrank.com/challenges/capitalize) |  |  |  |  |  |  |  |  |  |  |  |  |
-| 12 | The Minion Game | Medium | 25 | - | `str`, `game` | [link](https://www.hackerrank.com/challenges/the-minion-game) |  |  |  |  |  |  |  |  |  |  |  |  |
-| 13 | Merge the Tools! | Medium | 25 | - | `str`, `manipulation` | [link](https://www.hackerrank.com/challenges/merge-the-tools) |  |  |  |  |  |  |  |  |  |  |  |  |
+| 1 | sWAP cASE | Easy | 10 | - | `str`, `manipulation` | [link](https://www.hackerrank.com/challenges/swap-case) |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 2 | String Split and Join | Easy | 10 | - | `str`, `manipulation` | [link](https://www.hackerrank.com/challenges/python-string-split-and-join) |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 3 | What's Your Name? | Easy | 10 | [✅ 1](https://github.com/Leonardo0Arruda/hackerrank-solutions/blob/main/python/string-formatting/namelastname.py) | `str`, `function` | [link](https://www.hackerrank.com/challenges/whats-your-name) |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 4 | Mutations | Easy | 10 | - | `str`, `manipulation` | [link](https://www.hackerrank.com/challenges/python-mutations) |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 5 | Find a string | Easy | 10 | - | `str`, `manipulation` | [link](https://www.hackerrank.com/challenges/find-a-string) |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 6 | String Validators | Easy | 10 | - | `str`, `manipulation` | [link](https://www.hackerrank.com/challenges/string-validators) |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 7 | Text Alignment | Easy | 10 | [✅ 1](https://github.com/Leonardo0Arruda/hackerrank-solutions/blob/main/python/string-formatting/Text%20Alignment.py) | `str`, `formatting` | [link](https://www.hackerrank.com/challenges/text-alignment) |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 8 | Text Wrap | Easy | 10 | [✅ 1](https://github.com/Leonardo0Arruda/hackerrank-solutions/blob/main/python/string-formatting/Text%20Wrap.py) | `str`, `textwrap`, `formatting` | [link](https://www.hackerrank.com/challenges/text-wrap) |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 9 | Designer Door Mat | Easy | 10 | [✅ 1](https://github.com/Leonardo0Arruda/hackerrank-solutions/blob/main/python/string-formatting/Designer%20Door%20Mat.py) | `str`, `loops`, `formatting` | [link](https://www.hackerrank.com/challenges/designer-door-mat) |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 10 | String Formatting | Easy | 10 | - | `str`, `formatting` | [link](https://www.hackerrank.com/challenges/python-string-formatting) |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 11 | Capitalize! | Easy | 20 | - | `str`, `manipulation` | [link](https://www.hackerrank.com/challenges/capitalize) |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 12 | The Minion Game | Medium | 25 | - | `str`, `game` | [link](https://www.hackerrank.com/challenges/the-minion-game) |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 13 | Merge the Tools! | Medium | 25 | - | `str`, `manipulation` | [link](https://www.hackerrank.com/challenges/merge-the-tools) |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 ---
 
@@ -103,7 +103,7 @@ My HackerRank Python solutions organized by domain.
 
 | Domain | Solved | Total |
 |--------|--------|-------|
-| Python Language Proficiency | 9 | 13 |
+| Python Language Proficiency | 10 | 13 |
 | String Formatting | 4 | 13 |
 | Collections | 0 | 7 |
 | Date and Time | 0 | 2 |
